@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_send"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_send_label"
+        android:visible="false"
+        android:icon="@drawable/ic_action_send_now" />
+
+</menu>
+<!-- From: file:/home/user/Dropbox/Android%20Projects/Ribbit/app/src/main/res/menu/recipients.xml -->
